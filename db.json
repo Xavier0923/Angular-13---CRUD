@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 25000,
+      "comment": "i phone 14 pro max",
+      "date": "2022-04-30T16:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "mango",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 50000,
+      "comment": "mango phone",
+      "date": "2022-04-30T16:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "lemon",
+      "category": "Fruits",
+      "freshness": "Refurbished",
+      "price": 60000,
+      "comment": "lemon phone",
+      "date": "2022-04-30T16:00:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
